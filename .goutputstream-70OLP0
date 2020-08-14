@@ -116,7 +116,7 @@
             </div>
             <p>
               Currently working as <strong>Software Developer</strong> in <strong>TATA Consultancy Services Ltd</strong>. I have total <strong>7 years and 6 months of experience</strong> in software development and designing. 
-              Mainly worked in retail and pharmacy domain with various US and UK client. I was also part of Retail COE for 1 and half year. I was part of many project for designing to production deployment and support phase.
+              Mainly worked in retail and pharmacy domain with various US and UK client. I was also part of Retail COE for 1 and half year. I was par of many project for designing to production deployment and support phase.
             </p>
           </div>
         </div>
@@ -298,7 +298,7 @@ Main function of this Application is to manage supply chain involved in client r
             </div>
             <div class="resume-item">
               <h4>Application Architect/Developer</h4>
-              <h5>Jun 2014 - Jun 2015</h5>
+              <h5>Jun 2013 - Jun 2015</h5>
               <p><Strong>Project Name </strong>Oracle Retail Centre of Excellence</em></p>
               <p><Strong>Project Type </strong>Development</em></p>
 	      <p><Strong>Location </strong>Bangalore,Karnataka, India</em></p>
@@ -307,37 +307,14 @@ Main function of this Application is to manage supply chain involved in client r
                 <li><p><Strong>Project Description </strong>Built application in JAVA web technology with concept of 'Retail at one place'. This application will contain functionality of Oracle Retail Merchandise System, which is originally built in Oracle Forms. </p></li>
                 <li><p><Strong>Technology Used </strong></p>
                 <ul>
-                 <li>Front End of application is built in <strong>Oracle ADF</strong></li>
-                 <li>Backend logics are implemented in <strong>Oralce PL/SQL</strong></li> 
-                 
-                </ul>
-                </li>
-                
-              </ul>
-            </div>
-            
-            <div class="resume-item">
-              <h4>Application Developer</h4>
-              <h5>Jun 2013 - Jun 2014</h5>
-              <p><Strong>Project Name </strong>Oracle Retail Centre of Excellence</em></p>
-              <p><Strong>Project Type </strong>Development</em></p>
-	      <p><Strong>Location </strong>Bangalore,Karnataka, India</em></p>
-              <p><Strong>Organization </strong>TATA Consultancy Services Ltd.</em></p>              
-              <ul>
-                <li><p><Strong>Project Description </strong>Need to design and develop Android Application 
-                <ul>
-                  <li>Buy On The Go</li>
-                  <li>Oracle Retail Dashboard</li>                  
-                </ul>
-
-      
-
-     
-                <li><p><Strong>Technology Used </strong></p>
-                <ul>
-                 <li>ront End of application is built in <strong>Android</strong></li>
-                 <li>Backend logics are implemented in <strong>Oralce PL/SQL</strong></li> 
-                 
+                 <li>Front End of application is built in Oracle ADF</li>
+                 <li>Backend logics are implemented in <strong>Oracle PL/SQL</strong> </li> 
+                 <li>Batches are written in Spring Batch </li>
+                 <li>For service testing using Postman tool </li>  
+                 <li>Platform as service we are using Pivotal Cloud Foundry  </li>
+                 <li>SonarQube Lint is used for maintaining code quality control</li> 
+                 <li>Deploying application, we are using Jenkins </li>
+                 <li>At database level using MySQL in dev and MariaDB in Production </li>                 
                 </ul>
                 </li>
                 
@@ -360,7 +337,7 @@ Main function of this Application is to manage supply chain involved in client r
 
         <div class="section-title">
           <h2>Contact</h2>
-          
+          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
         <div class="row" data-aos="fade-in">
